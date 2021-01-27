@@ -225,6 +225,7 @@
 		<echo message="Installing dependencies (if needed) ..."/>
 		<exec executable="npm" dir="frontend" failonerror="true">
 			<arg value="install"/>
+			<arg value="--production"/>
 		</exec>
 		
         <echo message="Fixing vulnerabilities ..."/>
