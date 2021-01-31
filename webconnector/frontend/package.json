@@ -43,10 +43,6 @@
     "@webcomponents/webcomponentsjs": "^2.2.1",
     "las2peer-frontend-statusbar": "github:rwth-acis/las2peer-frontend-statusbar#0.3.0"
   },
-  "devDependencies": {
-    "polymer-cli": "^1.9.7",
-    "wct-browser-legacy": "^1.0.2"
-  },
   "engines": {
     "node": ">=8.0"
   }
